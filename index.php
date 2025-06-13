@@ -9,6 +9,3 @@
     <p>hello</p>
 </body>
 </html>
-<?php
-
-require_once "conf/routeur.php";
